@@ -1,5 +1,5 @@
 # 10-3
-請參考兩個課本範例
+請參考兩個課本範例:
 
 TestCircleWithStaticDataFields.cpp
 
